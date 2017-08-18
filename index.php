@@ -1,6 +1,6 @@
 <?php
 $resp['name'] = 'Jon Snow';
-$resp['quote'] = "I know nothing";
+$resp['quote'] = "I know everything";
 ?>
 <!DOCTYPE html>
 <!--[if lt IE 8 ]><html class="no-js ie ie7" lang="en"> <![endif]-->
